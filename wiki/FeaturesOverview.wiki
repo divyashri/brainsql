@@ -3,7 +3,6 @@
 
 = Introduction =
 
-Add your content here.
 
 
 = Features For Administrators =
