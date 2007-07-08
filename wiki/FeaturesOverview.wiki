@@ -8,7 +8,7 @@ Add your content here.
 
 = Features For Administrators =
 
-Add your content here.  Format your content with:
+BrainSQL eCampus provides the following features:
   * Easy Installation via GUI Wizard Installer
   * Made for PHP 5
   * Modular in design, using OOP
